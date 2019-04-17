@@ -1,2 +1,2 @@
-# C
+# c
 C language study
