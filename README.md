@@ -1,3 +1,2 @@
 # c
-C language study.
-adf 
+C language study
